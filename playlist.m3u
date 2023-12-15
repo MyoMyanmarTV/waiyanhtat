@@ -65,7 +65,169 @@ http://183.89.246.119:8881/play/a081/index.m3u8
 
 http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 
-
+#EXTM3U
+#EXTINF:-1 ,Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 ,Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 ,Willow HD
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1 ,True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 ,True Sports
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 ,SPORTSMAX 1
+https://is.gd/8Xi5qy
+#EXTINF:-1 ,Bein Sport 1 EN
+https://stream.ayas.ir/hls2/bein1en.m3u8
+#EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 ,AI SPORT 🇮🇷
+https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,TLT + Willow Sports
+http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
+#EXTINF:-1 ,T Sports Akash
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 ,Gazi TV
+http://chanel.dekhaott.com/Gazi-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TNT Sports 4 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+#EXTINF:-1 ,sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 ,StarSports 1 HD 🇮🇳
+http://watchindia.net:8880/live/60427/00546/2186.ts
+#EXTINF:-1 ,MAX SPORTS 4 🇧🇬
+http://312834923831628466.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
+#EXTINF:-1 ,ESPN DEPORTE 🇺🇸
+http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
+#EXTINF:-1 ,LIVE FREECATV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/chunks.m3u8
+#EXTINF:-1 ,PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 ,Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1 ,Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 ,TLT  1
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 ,Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,ICC TV Add free Channel
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+#EXTINF:-1 ,Gazi TV 2
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+#EXTINF:-1 ,Willow Extra TV
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+#EXTINF:-1 ,Hoster Live 1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,RACING TV
+http://89.187.167.94:80/live.ts?channelId=98&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,EUROSPORT 2
+http://89.187.167.92:80/live.ts?channelId=102&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,ViaPlay 2 UK
+http://89.187.167.94:80/live.ts?channelId=105&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SPORTY STUFF
+http://89.187.167.94:80/live.ts?channelId=108&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports F1.
+http://89.187.167.92:80/live.ts?channelId=130&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS F1
+http://89.187.167.92:80/live.ts?channelId=131&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Arena.
+http://89.187.167.94:80/live.ts?channelId=132&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS MAIN EVENT
+http://89.187.167.94:80/live.ts?channelId=135&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Action./NFL
+http://89.187.167.94:80/live.ts?channelId=138&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS ACTION / NFL
+http://89.187.167.92:80/live.ts?channelId=139&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Mix.
+http://89.187.167.92:80/live.ts?channelId=140&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS MIX
+http://89.187.167.94:80/live.ts?channelId=141&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Football.
+http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Golf.
+http://89.187.167.94:80/live.ts?channelId=146&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports News.
+http://89.187.167.94:80/live.ts?channelId=150&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SPORTS 18 khel
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,VIAPLAY EXTRA
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 ,Sky Sports Golf.
+http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,SKY SPORTS RACING
+http://89.187.167.92:80/live.ts?channelId=149&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,SKY SPORTS NEWS
+http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,TNT Sport 1
+http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,TNT SPORTS 1
+http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,ESPN HD
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 ,ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 ,ESPN 3 HD
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 ,FoxSports  HD.
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 ,FOXSPORTS 3 HD.
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 ,GOLTV HD.
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:-1 ,TyCSports HD.
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 ,Fox Sports 3 LatinoAmerica HD
+http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1 ,BUNDES LIGA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
+#EXTINF:-1 ,LIGA ITALY 3
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19042/index.m3u8
+#EXTINF:-1 ,SPORTS TV 1
+http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
+#EXTINF:-1 ,T-Sports [3]
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 ,TYC SPORTS
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:-1 ,TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 ,Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,SPORTS 18 HD
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 1 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 2 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 3 HD 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 3 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 ,LIVE 1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 ,LIVE 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 ,LIVE 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=591576&extension=ts&play_token=ZuOu1yk1WD
+#EXTINF:-1 ,ASTRO SUPER SPORTS
+https://mlb.mrgamingstreams.com/astro.m3u8
 
 
 
