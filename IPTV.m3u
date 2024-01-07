@@ -1,71 +1,46 @@
 #EXTM3U 
 
- #EXTM3U#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CLb-cUYLjXo/mqdefault.jpg "group-title="Myanmar channel ",Maharbawdi
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CLb-cUYLjXo/mqdefault.jpg "group-title="Myanmar channel ",Maharbawdi
 #EXTVLCOPT:http-referrer=
-
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w223322091.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIzIDM6NDQ6MDAgUE0maGFzaF92YWx1ZT1sZzFCbjlDcXlzRWlQcmN2NzNzQitRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image89076243760.jpg "group-title="Myanmar channel ",Mrtv4
-
 #EXTVLCOPT:http-referrer=
-
-https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w223322091.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIzIDM6NDQ6MDAgUE0maGFzaF92YWx1ZT1sZzFCbjlDcXlzRWlQcmN2NzNzQitRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/200x/af/ca/5d/afca5d4f9fb5756de13110aa7a89e69a.jpg "group-title="Myanmar channel ", Channel 7
-
 #EXTVLCOPT:http-referrer=
-
-https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1200213743.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDM6NDM6NDMgUE0maGFzaF92YWx1ZT05ZFNFdHpwdEFkNnNoenBWVGRVN0ZBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE1
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/36/9a/20/369a20d1-852b-801e-a886-85cb480e13af/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png"group-title="Myanmar channel ", Mahar
-
 #EXTVLCOPT:http-referrer=
-
-
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png "group-title="Myanmar channel ", Mrtv
-
 #EXTVLCOPT:http-referrer=
-
-
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg "group-title="Myanmar channel ", MNtv
-
 #EXTVLCOPT:http-referrer=
-
-
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/mm-5-plus-tv-2131.jpg "group-title="Myanmar channel ",5Plus
-
 #EXTVLCOPT:http-referrer=
-
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w952929156.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.playboard.app/p/ffd11b11f653a8ec79f1d5486a2ee1f1/100x100.jpg "group-title="Myanmar channel ", Channel K
-
 #EXTVLCOPT:http-referrer=
-
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/YTV_Logo.png "group-title="Myanmar channel ",Ytv
-
 #EXTVLCOPT:http-referrer=
-
 http://183.89.246.119:8881/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia801905.us.archive.org/34/items/fs-1_20200915/Fortune-TV-1.png "group-title="Myanmar channel ", fortune 
-
 #EXTVLCOPT:http-referrer=
-
 http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 
-#EXTM3U
+****************************************************************************************
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 ,Via Play Sports 2
